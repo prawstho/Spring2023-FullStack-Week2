@@ -1,0 +1,16 @@
+{
+  "name": "spring2023-fullstack-week2",
+  "version": "1.0.0",
+  "description": "All my learning for week two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "moment": "^2.29.4"
+  }
+}
